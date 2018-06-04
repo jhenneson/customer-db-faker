@@ -1,0 +1,6 @@
+{
+  "customer": [
+    { "id": 1, "Name": "Monkey D Luffy","Gender": "Male",  "Address": "Goa Kingdom"},
+    { "id": 2, "Name": "Portgas D Ace","Gender": "Male",  "Address": "Baltigo"}
+  ]
+}
